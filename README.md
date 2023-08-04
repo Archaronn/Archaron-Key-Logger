@@ -16,6 +16,6 @@ This keylogger that I have coded can be developed, anyone can use it as they wis
 | İnstall With Windows |
 -----------------------------------------------------------------
 
-> pip install pynput
+</> pip3 install pynput
 
 -----------------------------------------------------------------
